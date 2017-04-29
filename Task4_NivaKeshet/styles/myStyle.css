@@ -1,0 +1,123 @@
+body 
+{
+    direction:rtl;
+    margin: 0px auto;
+    width:1500px;
+    background-image:url(../image/B.jpg);
+    background-repeat:no-repeat;
+    background-size:1400px;
+    background-position-x:center;
+    background-position-y:130px;
+    
+    
+}
+
+.t{
+    
+    
+    text-decoration:none;
+    color:#ffffff;
+    font-family:RimonaB;
+   
+}
+h1{
+    margin:50px   55px   70px   0px;
+    font-size: 26px;
+    line-height:35px;
+    position:absolute;
+}
+a{
+    
+    line-height: 100px;
+}
+#hit{
+    margin-right:1150px;
+    margin-top:30px;
+    position:absolute;
+}
+#b{
+    font-size:100px;
+    display: inline-block;
+    margin-top: 70px;
+    padding: 120px 400px 0px 10px;
+}
+#b:hover{
+    font-size:120px;
+    padding: 120px 330px 0px 30px;
+}
+
+#l{
+    font-size: 50px;
+    display: inline-block;
+     padding: 50px 600px 40px 0px;
+}
+#p{
+     font-size: 30px;
+    display: inline-block;
+     padding: 0px 650px 20px 10px;
+}
+#h{
+padding: 30px 710px 20px 10px;
+position:absolute;
+}
+.v{
+    display:inline-block;
+     margin:180px  170px   20px  200px;
+     font-size:21px;
+   
+}
+.v img{
+    padding:10px  100px   0px   10px;
+}
+
+h2{
+    font-size:40px;
+    font-family:Rimona;
+     padding:40px  280px   0px   100px;
+
+}
+
+ol{
+    display:inline-block;
+    padding:40px  350px   50px   0px;
+    list-style-type:square;
+
+
+    
+
+}
+li{
+    font-family:Rimona;
+    font-size:22px;
+    line-height:30px;
+}
+h3{
+    font-size:22px;
+    margin:10px  350px   10px  10px;
+
+}
+
+#name{
+    height:30px;
+    margin:10px  350px   20px  10px;
+}
+#lname{
+    height:30px;
+        margin:10px  0px   20px  10px;
+}
+#email{
+    height:30px;
+        margin:10px  0px   20px  10px;
+
+}
+#phone{
+    height:30px;
+        margin:10px  0px   20px  10px;
+
+}
+#s{
+height:30px;
+    margin:10px  0px   20px  10px;
+
+}
+
